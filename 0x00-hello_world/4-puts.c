@@ -1,3 +1,5 @@
+gcc -c $CFILE
+
 #include <stdio.h>
 
 /**
