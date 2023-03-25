@@ -12,5 +12,5 @@ int _isupper(int x)
 	{
 	return (1);
 	}
-	return (o)
+	return (0);
 }
